@@ -1,0 +1,2 @@
+include ':app', ':lqplugin'
+rootProject.name='PublishPlugin'
